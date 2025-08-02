@@ -8,7 +8,7 @@ This project showcases my work as an enthusiast web developer, with a focus on c
 ## 🔗 Live Preview
 
 You can view the live site here:  
-👉 **[Portfolio Website (GitHub Pages)](https://jarvano.github.io/portfolio-site/)**
+👉 **[Portfolio Website (GitHub Pages)](https://jarvano.github.io/personal_portfolio/)**
 
 
 ## 🧑‍💻 About Me
