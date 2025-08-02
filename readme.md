@@ -13,7 +13,7 @@ You can view the live site here:
 
 ## 🧑‍💻 About Me
 
-I’m **Javan Okuro**, a frontend enthusiast and web designer with a passion for crafting clean and accessible interfaces using pure HTML and CSS. I love building practical projects that solve real-world problems.
+I’m **Javan Okuro**, a frontend enthusiast and web designer with a passion for crafting clean and accessible interfaces. I love building practical projects that solve real-world problems.
 
 ## 🎓 Education
 
