@@ -28,7 +28,7 @@ Diploma in Information and Communication Technology
 Here are some of the recent projects featured in this portfolio:
 
 
-- [💄 Beauty Shop Website](https://javanokuro.github.io/beauty-shop/)  
+- [💄 Beauty Shop Website](https://voluble-dasik-e52840.netlify.app/)  
 - [🥬 Kula Fresh Delivery Site](https://javanokuro.github.io/kulafresh/)  
 - [🚀 Responsive Landing Page](https://javanokuro.github.io/landing-page/)  
 - [📋 Registration Form (with Validations)](https://javanokuro.github.io/registration-form/)  
