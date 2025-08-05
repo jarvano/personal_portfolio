@@ -29,7 +29,7 @@ Here are some of the recent projects featured in this portfolio:
 
 
 - [💄 Beauty Shop Website](https://voluble-dasik-e52840.netlify.app/)  
-- [🥬 Kula Fresh Delivery Site](https://javanokuro.github.io/kulafresh/)  
+- [🥬 Kula Fresh Delivery Site](https://vocal-alpaca-841789.netlify.app/)  
 - [🚀 Responsive Landing Page](https://javanokuro.github.io/landing-page/)  
 - [📋 Registration Form (with Validations)](https://javanokuro.github.io/registration-form/)  
 - [📰 Blog Homepage](https://javanokuro.github.io/blog-homepage/)  
